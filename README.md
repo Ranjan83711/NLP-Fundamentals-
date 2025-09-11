@@ -1,3 +1,5 @@
+**For a better understanding scroll down to the bottom, click on the image and zoom it you will get the detailed information clearly**
+
 The NLP Roadmap for Machine Learning                                                                
 																
 The provided text outlines a comprehensive roadmap for learning Natural Language Processing (NLP) for machine learning and deep learning. The core idea is to enable a machine to understand human language by converting text into a numerical format, specifically "meaningful vectors".
